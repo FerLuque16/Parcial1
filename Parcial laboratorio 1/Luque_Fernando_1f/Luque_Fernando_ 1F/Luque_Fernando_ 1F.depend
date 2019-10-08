@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1570506907 source:d:\luque_fernando_1f\luque_fernando_ 1f\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Cliente.h"
+
+1570474963 d:\luque_fernando_1f\luque_fernando_ 1f\utn.h
+
+1570506183 d:\luque_fernando_1f\luque_fernando_ 1f\cliente.h
+
+1570506914 source:d:\luque_fernando_1f\luque_fernando_ 1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"Cliente.h"
+
+1570499765 source:d:\luque_fernando_1f\luque_fernando_ 1f\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"utn.h"
+
+1570557267 source:c:\users\fer\desktop\parcial laboratorio 1\luque_fernando_1f\luque_fernando_ 1f\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"utn.h"
+
+1570557127 c:\users\fer\desktop\parcial laboratorio 1\luque_fernando_1f\luque_fernando_ 1f\utn.h
+
+1570560298 source:c:\users\fer\desktop\parcial laboratorio 1\luque_fernando_1f\luque_fernando_ 1f\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Cliente.h"
+
+1570560209 c:\users\fer\desktop\parcial laboratorio 1\luque_fernando_1f\luque_fernando_ 1f\cliente.h
+
+1570554944 source:c:\users\fer\desktop\parcial laboratorio 1\luque_fernando_1f\luque_fernando_ 1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"Cliente.h"
+
